@@ -1,0 +1,304 @@
+html
+{
+	background-color: #171718;
+}
+
+#page
+{
+	z-index: 1;
+	width: 898px;
+	min-height: 549px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DBDBDB;
+	margin: 16px auto 104px;
+	padding: 5px 225px 216px 97px;
+	background: #000000 url("../image/master_u949_fr.png") no-repeat left top;
+	background-color: rgba(0, 0, 0, 0.85);
+	-pie-background: rgba(0, 0, 0, 0.85) url("../image/master_u949_fr.png") no-repeat left top;
+}
+
+#master-header
+{
+	width: 0.01px;
+	margin-left: 17px;
+	position: relative;
+}
+
+#n1
+{
+	z-index: 3;
+	width: 154px;
+	min-height: 43px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -154px;
+	margin-top: 15px;
+	left: 377px;
+}
+
+#n7
+{
+	z-index: 21;
+	width: 117px;
+	min-height: 34px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -117px;
+	margin-top: 15px;
+	left: 528px;
+}
+
+#n13
+{
+	z-index: 27;
+	width: 350px;
+	min-height: 49px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 45px;
+	font-weight: bold;
+	color: #DEDEDE;
+	position: relative;
+	margin-right: -350px;
+}
+
+#n17
+{
+	z-index: 15;
+	width: 117px;
+	min-height: 34px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -117px;
+	margin-top: 15px;
+	left: 663px;
+}
+
+#n23
+{
+	z-index: 9;
+	width: 77px;
+	min-height: 43px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -77px;
+	margin-top: 15px;
+	left: 794px;
+}
+
+#n4, #n10, #n20, #n26
+{
+	color: #DEDEDE;
+}
+
+#n6, #n12, #n22, #n28
+{
+	font-size: 28px;
+}
+
+#n29
+{
+	width: 0.01px;
+	margin-top: 52px;
+	position: relative;
+}
+
+#n30
+{
+	z-index: 32;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 83px;
+	left: 893px;
+}
+
+#n33
+{
+	z-index: 35;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 236px;
+	left: 282px;
+}
+
+#n36
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -891px;
+}
+
+#n38
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -448px;
+	margin-top: 3px;
+}
+
+#n37, #n39
+{
+	width: 0.01px;
+	position: relative;
+}
+
+#n40
+{
+	z-index: 39;
+	width: 442px;
+	min-height: 133px;
+	position: relative;
+	margin-right: -442px;
+	left: 7px;
+}
+
+#n42, #n44, #n45
+{
+	font-size: 19px;
+	color: #FFFFFF;
+}
+
+#n46
+{
+	font-size: 20px;
+	color: #DEDEDE;
+}
+
+#n47
+{
+	z-index: 65;
+	width: 372px;
+	min-height: 30px;
+	font-size: 19px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -372px;
+	margin-top: 160px;
+}
+
+#n51
+{
+	width: 0.01px;
+	margin-left: 4px;
+	margin-top: 1px;
+	position: relative;
+}
+
+#n52
+{
+	z-index: 69;
+	width: 108px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #C8C8C8;
+	background-color: transparent;
+	position: relative;
+	margin-right: -114px;
+	margin-top: 1px;
+}
+
+#n54
+{
+	z-index: 76;
+	width: 106px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	position: relative;
+	margin-right: -112px;
+	left: 238px;
+}
+
+#n56
+{
+	z-index: 46;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 166px;
+	left: 544px;
+}
+
+#n59
+{
+	z-index: 71;
+	width: 383px;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	position: relative;
+	margin-right: -389px;
+	left: 502px;
+}
+
+#n52_img, #n54_img, #n59_img
+{
+	vertical-align: top;
+}
+
+#n61
+{
+	width: 0.01px;
+	margin-left: 3px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#n62
+{
+	z-index: 49;
+	width: 232px;
+	min-height: 71px;
+	font-size: 19px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -232px;
+}
+
+#n70
+{
+	z-index: 57;
+	width: 262px;
+	min-height: 81px;
+	font-size: 19px;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -262px;
+	left: 239px;
+}
+
+#n65, #n73
+{
+	font-weight: bold;
+}
+
+#n78
+{
+	z-index: 73;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 18px;
+	left: 663px;
+}
+

@@ -1,0 +1,170 @@
+html
+{
+	background-color: #171718;
+}
+
+#page
+{
+	z-index: 1;
+	width: 889px;
+	min-height: 484.99999999999994px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #DBDBDB;
+	margin: 16px auto 104px;
+	padding: 5px 225px 280.00000000000006px 106px;
+	background: #000000 url("../image/master_u949_fr.png") no-repeat left top;
+	background-color: rgba(0, 0, 0, 0.85);
+	-pie-background: rgba(0, 0, 0, 0.85) url("../image/master_u949_fr.png") no-repeat left top;
+}
+
+#master-header
+{
+	width: 0.01px;
+	margin-left: 8px;
+	position: relative;
+}
+
+#n1
+{
+	z-index: 3;
+	width: 154px;
+	min-height: 43px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -154px;
+	margin-top: 15px;
+	left: 377px;
+}
+
+#n7
+{
+	z-index: 21;
+	width: 117px;
+	min-height: 34px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -117px;
+	margin-top: 15px;
+	left: 528px;
+}
+
+#n13
+{
+	z-index: 27;
+	width: 350px;
+	min-height: 49px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 45px;
+	font-weight: bold;
+	color: #DEDEDE;
+	position: relative;
+	margin-right: -350px;
+}
+
+#n17
+{
+	z-index: 15;
+	width: 117px;
+	min-height: 34px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -117px;
+	margin-top: 15px;
+	left: 663px;
+}
+
+#n23
+{
+	z-index: 9;
+	width: 77px;
+	min-height: 43px;
+	font-family: Garamond, Hoefler Text, Palatino, Palatino Linotype, serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: normal;
+	color: #C8C8C8;
+	position: relative;
+	margin-right: -77px;
+	margin-top: 15px;
+	left: 794px;
+}
+
+#n4, #n10, #n20, #n26
+{
+	color: #DEDEDE;
+}
+
+#n6, #n12, #n22, #n28
+{
+	font-size: 28px;
+}
+
+#n29
+{
+	width: 0.01px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#n30
+{
+	z-index: 32;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 120px;
+	left: 884px;
+}
+
+#n33
+{
+	z-index: 35;
+	width: 5px;
+	position: relative;
+	margin-right: -5px;
+	margin-top: 273px;
+	left: 273px;
+}
+
+#n36
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -834px;
+}
+
+#n37
+{
+	z-index: 39;
+	width: 834px;
+	min-height: 412px;
+	position: relative;
+	margin-right: -834px;
+}
+
+#n40
+{
+	font-size: 22px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+#n39, #n42, #n43, #n45, #n46, #n48, #n49, #n51, #n52, #n54, #n55, #n57, #n58, #n63
+{
+	font-size: 18px;
+	color: #FFFFFF;
+}
+

@@ -1,0 +1,37 @@
+<manifest alg="1">
+  <folder name="image">
+    <file name="master_u949_fr.png" crc="4191959435"/>
+    <file name="forstaliten.jpg" crc="3944713751"/>
+    <file name="index_n53.png" crc="3774643437"/>
+    <file name="sk.jpg" crc="515244807"/>
+    <file name="fb.gif" crc="3800083884"/>
+    <file name="gospelryd battre lit.jpg" crc="392238220"/>
+    <file name="latar_n40.png" crc="3810147324"/>
+    <file name="latar_n49.png" crc="4219705682"/>
+    <file name="henrik.jpg" crc="4199478334"/>
+    <file name="liten 2.jpg" crc="4221902182"/>
+    <file name="agape1 ny.jpg" crc="312291643"/>
+    <file name="kyrkan.jpg" crc="3862808134"/>
+  </folder>
+  <folder name="scripts">
+    <folder name="1.1">
+      <file name="jquery-1.7.min.js" crc="526788486"/>
+      <file name="sprydomutils.js" crc="119034094"/>
+      <file name="museutils.js" crc="406002062"/>
+      <file name="pie.js" crc="942815"/>
+    </folder>
+  </folder>
+  <folder name="css">
+    <file name="index.css" crc="4283542954"/>
+    <file name="latar.css" crc="174442983"/>
+    <file name="kontakt.css" crc="72750547"/>
+    <file name="om-agape.css" crc="4205221427"/>
+    <file name="program.css" crc="240174483"/>
+    <file name="site_global.css" crc="3963535094"/>
+  </folder>
+  <file name="index.html" crc="3943064538"/>
+  <file name="latar.html" crc="72059688"/>
+  <file name="kontakt.html" crc="3971163786"/>
+  <file name="om-agape.html" crc="3812657336"/>
+  <file name="program.html" crc="527754247"/>
+</manifest>
